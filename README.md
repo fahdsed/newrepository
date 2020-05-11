@@ -1,2 +1,0 @@
-# newrepository
-Formation CI
